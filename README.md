@@ -1,2 +1,1 @@
-# mildjosh
-Personal portfolio site!
+[mildjosh.com](https://mildjosh.com)
