@@ -16,7 +16,8 @@ export default function Home() {
       <div className={styles.content}>
         <header>
           <div>
-            <h1>Joshua Lee 이서준</h1>
+            <h1>Joshua Lee</h1>
+            <h2>이서준</h2>
 
             <p className={styles.subtitle}>
               Day {getDay().toLocaleString()} on Earth
