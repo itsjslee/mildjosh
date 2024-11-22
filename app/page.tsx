@@ -77,7 +77,7 @@ export default function Home() {
          </DomLink>. 
         </p>
         <p>
-          I enjoy building and learning new things along the way, whether it's hardware or software. Through my work at {' '}
+          I enjoy building and learning new things along the way, whether it&apos;s hardware or software. Through my work at {' '}
           <DomLink href='https://mildjosh.com/projects/ignite'>
             Ignite
           </DomLink>, I have also become passionate about breaking barriers to entry into STEM for students around the world.
