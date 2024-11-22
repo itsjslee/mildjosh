@@ -84,7 +84,7 @@ export default function Home() {
         </p>
 
         <p>
-          I attend the University of Michigan, studying electrical engineering and data science. I’m originally from the bay area but I currently live in Honolulu and Ann Arbor.
+          I attend the University of Michigan, studying electrical engineering and data science. I am originally from the bay area but I currently live in Honolulu and Ann Arbor.
         </p>
 
         <p>
