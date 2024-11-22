@@ -75,7 +75,12 @@ export default function Home() {
          <DomLink href='https://v1michigan.com/'>
            V1 Michigan
          </DomLink>. 
-          I enjoy building and learning new things along the way.
+        </p>
+        <p>
+          I enjoy building and learning new things along the way, whether it's hardware or software. Through my work at {' '}
+          <DomLink href='https://mildjosh.com/projects/ignite'>
+            Ignite
+          </DomLink>, I have also become passionate about breaking barriers to entry into STEM for students around the world.
         </p>
 
         <p>
