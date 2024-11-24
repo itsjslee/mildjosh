@@ -23,14 +23,14 @@ export const projects: Project[] = [
   {
     title: 'Juggernaut',
     about: 'A custom designed and fabricated rocket reaching an altitude of 2,200 feet earning me Level 1 Certification from the National Association of Rocketry.',
-    image: 'duck.png',
+    image: 'juggernaut.jpg',
     buttons: [],
     icons: [],
   },
   {
     title: 'MQueue',
     about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
-    image: 'duck.png',
+    image: 'mqueue1.png',
     buttons: [],
     icons: [],
   },
@@ -44,7 +44,7 @@ export const projects: Project[] = [
   {
     title: 'Barton',
     about: 'An ML-powered tool that detects pneumonia from lung scans with 85% accuracy.',
-    image: 'duck.png',
+    image: 'xray.jpg',
     buttons: [],
     icons: [],
   },
