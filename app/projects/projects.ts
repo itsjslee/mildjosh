@@ -31,8 +31,25 @@ export const projects: Project[] = [
     title: 'MQueue',
     about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
     image: 'mqueue1.png',
-    buttons: [],
-    icons: [],
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/amyliiu/mqueue',
+      },
+      {
+        label: 'Try it out', 
+        link: 'https://mqueue-six.vercel.app',
+      },
+    ],
+    icons: [
+      'React',
+      'Next.js',
+      'Vercel',
+      'Twilio',
+      'OnRender',
+      'Python',
+      'TypeScript'
+    ],
   },
   {
     title: 'AFX',
@@ -45,7 +62,22 @@ export const projects: Project[] = [
     title: 'Barton',
     about: 'An ML-powered tool that detects pneumonia from lung scans with 85% accuracy.',
     image: 'xray.jpg',
-    buttons: [],
-    icons: [],
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee/2023Research',
+      },
+      {
+        label: 'My Research', 
+        link: 'Barton.pdf',
+      },
+    ],
+    icons: [
+      'Jupyter',
+      'Python',
+      'Kaggle',
+      'TensorFlow',
+      'VGG-16'
+    ],
   },
 ]
