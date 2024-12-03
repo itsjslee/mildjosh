@@ -28,7 +28,7 @@ export const projects: Project[] = [
     icons: [],
   },
   {
-    title: 'MQueue',
+    title: 'Courtline',
     about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
     image: 'mqueue1.png',
     buttons: [
@@ -44,6 +44,7 @@ export const projects: Project[] = [
     icons: [
       'React',
       'Next.js',
+      'Figma',
       'Vercel',
       'Twilio',
       'OnRender',
