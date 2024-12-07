@@ -24,13 +24,32 @@ export const projects: Project[] = [
     title: 'Juggernaut',
     about: 'A custom designed and fabricated rocket reaching an altitude of 2,200 feet earning me Level 1 Certification from the National Association of Rocketry.',
     image: 'juggernaut.jpg',
-    buttons: [],
-    icons: [],
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee/Level.Rockets-Juggernaut',
+      },
+      {
+        label: 'Docs', 
+        link: '',
+      },
+      {
+        label: 'Flight', 
+        link: 'https://www.youtube.com/watch?v=XSKkyKsEFgg',
+      },
+      
+    ],
+    icons: [
+      'C++',
+      'LoRa',
+      'OpenRocket',
+      'OnShape',
+    ],
   },
   {
     title: 'Courtline',
     about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
-    image: 'mqueue1.png',
+    image: 'courtline.png',
     buttons: [
       {
         label: 'GitHub', 
@@ -39,6 +58,10 @@ export const projects: Project[] = [
       {
         label: 'Try it out', 
         link: 'https://mqueue-six.vercel.app',
+      },
+      {
+        label: 'Pitch', 
+        link: 'courtline.pdf',
       },
     ],
     icons: [
@@ -55,7 +78,7 @@ export const projects: Project[] = [
   {
     title: 'AFX',
     about: 'A platform that allows students to invest in and predict their peers\' academic achievements.',
-    image: 'duck.png',
+    image: 'afx.jpeg',
     buttons: [],
     icons: [],
   },
@@ -69,7 +92,7 @@ export const projects: Project[] = [
         link: 'https://github.com/itsjslee/2023Research',
       },
       {
-        label: 'My Research', 
+        label: 'Research', 
         link: 'Barton.pdf',
       },
     ],

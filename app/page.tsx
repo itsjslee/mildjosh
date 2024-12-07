@@ -76,12 +76,6 @@ export default function Home() {
            V1 Michigan
          </DomLink>. 
         </p>
-        <p>
-          I enjoy building and learning new things along the way, whether it&apos;s hardware or software. Through my work at {' '}
-          <DomLink href='https://mildjosh.com/projects/ignite'>
-            Ignite
-          </DomLink>, I have also become passionate about breaking barriers to entry into STEM for students around the world.
-        </p>
 
         <p>
           I attend the University of Michigan, studying electrical engineering and data science. I am originally from the bay area but I currently live in Honolulu and Ann Arbor.
