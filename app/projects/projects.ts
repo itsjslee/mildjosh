@@ -80,7 +80,14 @@ export const projects: Project[] = [
     about: 'A platform that allows students to invest in and predict their peers\' academic achievements.',
     image: 'afx.jpeg',
     buttons: [],
-    icons: [],
+    icons: [
+      'React',
+      'Next.js',
+      'Figma',
+      'Vercel',
+      'Python',
+      'TypeScript'
+    ],
   },
   {
     title: 'Barton',
