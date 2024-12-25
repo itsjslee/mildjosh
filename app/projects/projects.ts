@@ -13,10 +13,23 @@ export type Project = {
 }
 
 export const projects: Project[] = [
+
+  {
+    title: 'Limelive',
+    about: 'An onboard camera system for MASA\'s flagship rocket, Limelight.',
+    image: 'limelive1.png',
+    buttons: [
+      {
+        label: 'Schematic', 
+        link: 'public/projects/JoshLimeliveMVP.kicad_pro',
+      }
+    ],
+    icons: [],
+  },
   {
     title: 'Mobius',
     about: 'A thrust vector powered rocket designed for low flights and precision landing.',
-    image: 'duck.png',
+    image: 'level.png',
     buttons: [],
     icons: [],
   },
