@@ -27,11 +27,33 @@ export const projects: Project[] = [
     icons: [],
   },
   {
-    title: 'Mobius',
-    about: 'A thrust vector powered rocket designed for low flights and precision landing.',
-    image: 'level.png',
-    buttons: [],
-    icons: [],
+    title: 'Courtline',
+    about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
+    image: 'courtline.png',
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/amyliiu/mqueue',
+      },
+      {
+        label: 'Try it out', 
+        link: 'https://mqueue-six.vercel.app',
+      },
+      {
+        label: 'Pitch', 
+        link: 'courtline.pdf',
+      },
+    ],
+    icons: [
+      'React',
+      'Next.js',
+      'Figma',
+      'Vercel',
+      'Twilio',
+      'OnRender',
+      'Python',
+      'TypeScript'
+    ],
   },
   {
     title: 'Juggernaut',
@@ -60,33 +82,11 @@ export const projects: Project[] = [
     ],
   },
   {
-    title: 'Courtline',
-    about: 'An automated queueing system for badminton courts at the University of Michigan\'s North Campus Recreational Building (NCRB).',
-    image: 'courtline.png',
-    buttons: [
-      {
-        label: 'GitHub', 
-        link: 'https://github.com/amyliiu/mqueue',
-      },
-      {
-        label: 'Try it out', 
-        link: 'https://mqueue-six.vercel.app',
-      },
-      {
-        label: 'Pitch', 
-        link: 'courtline.pdf',
-      },
-    ],
-    icons: [
-      'React',
-      'Next.js',
-      'Figma',
-      'Vercel',
-      'Twilio',
-      'OnRender',
-      'Python',
-      'TypeScript'
-    ],
+    title: 'Mobius',
+    about: 'A thrust vector powered rocket designed for low flights and precision landing.',
+    image: 'level.png',
+    buttons: [],
+    icons: [],
   },
   {
     title: 'AFX',
