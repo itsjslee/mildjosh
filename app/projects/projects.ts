@@ -82,6 +82,30 @@ export const projects: Project[] = [
     ],
   },
   {
+    title: 'Seymour',
+    about: 'A web tool allowing users to analyze historal stock trends in order to make market predictions.',
+    image: 'seymour.png',
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee/Seymour',
+      },
+      {
+        label: 'Try it out', 
+        link: 'https://seymour.streamlit.app/.',
+      },
+    ],
+    icons: [
+      'NumPy',
+      'Pandas',
+      'Scikit-learn',
+      'Streamlit',
+      'YFinance',
+      'TA-LIB',
+      'Python',
+    ],
+  },
+  {
     title: 'Mobius',
     about: 'A thrust vector powered rocket designed for low flights and precision landing.',
     image: 'level.png',
