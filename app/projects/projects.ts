@@ -124,7 +124,9 @@ export const projects: Project[] = [
     about: 'A thrust vector powered rocket designed for low flights and precision landing.',
     image: 'level.png',
     buttons: [],
-    icons: [],
+    icons: [
+      'Currently Building'
+    ],
   },
   {
     title: 'AFX',
@@ -132,12 +134,7 @@ export const projects: Project[] = [
     image: 'afx.jpeg',
     buttons: [],
     icons: [
-      'React',
-      'Next.js',
-      'Figma',
-      'Vercel',
-      'Python',
-      'TypeScript'
+      'Currently Building'
     ],
   },
   {
