@@ -106,6 +106,20 @@ export const projects: Project[] = [
     ],
   },
   {
+    title: 'EECS280',
+    about: 'University of Michigan\'s Data Structures and Algorithms Class',
+    image: 'eecs280.png',
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee',
+      },
+    ],
+    icons: [
+      'Coming soon!',
+    ],
+  },
+  {
     title: 'Mobius',
     about: 'A thrust vector powered rocket designed for low flights and precision landing.',
     image: 'level.png',
