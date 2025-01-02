@@ -148,4 +148,19 @@ export const projects: Project[] = [
       'VGG-16'
     ],
   },
+  {
+    title: 'Brickmania',
+    about: 'A classic Brick Breaker game. My first computer science project!',
+    image: 'brickmania.png',
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee/brickmania',
+      },
+    ],
+    icons: [
+      'Java',
+      'Processing',
+    ],
+  },
 ]
