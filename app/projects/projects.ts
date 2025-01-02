@@ -24,7 +24,11 @@ export const projects: Project[] = [
         link: 'public/projects/JoshLimeliveMVP.kicad_pro',
       }
     ],
-    icons: [],
+    icons: [
+      'Altium',
+      'KiCAD',
+      'Digikey'
+    ],
   },
   {
     title: 'Courtline',
