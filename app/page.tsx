@@ -20,7 +20,7 @@ export default function Home() {
             <h2>이서준</h2>
 
             <p className={styles.subtitle}>
-              Day {getDay().toLocaleString()} on Earth
+              Day {getDay().toLocaleString()}
             </p>
           </div>
 
