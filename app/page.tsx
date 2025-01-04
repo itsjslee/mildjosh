@@ -50,7 +50,7 @@ export default function Home() {
                   height={36}
                 />
               </DomLink>
-              <DomLink href='/resume.pdf'>
+              <DomLink href='/Joshua_Lee_Resume.pdf'>
                 <Image
                   src='/icons/resume.svg'
                   alt='Resume'
