@@ -75,10 +75,10 @@ export default function Home() {
          <DomLink href='https://v1michigan.com/'>
            V1 Michigan
          </DomLink>. 
-         Previously, I was the technical lead and head of partnerships for {' '}
+         Previously, I was the technical lead and head of global partnerships for {' '}
          <DomLink href='https://mildjosh.com/ignite'>
           Ignite</DomLink>,
-          a group focused on breaking barriers for entry into STEM.        
+          a team focused on breaking barriers for entry into STEM education.        
         </p>
 
         <p>
