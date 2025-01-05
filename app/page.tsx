@@ -75,6 +75,7 @@ export default function Home() {
          <DomLink href='https://v1michigan.com/'>
            V1 Michigan
          </DomLink>. 
+         Previously, I was the technical lead for Ignite.
         </p>
 
         <p>
