@@ -77,7 +77,7 @@ export default function Home() {
          </DomLink>. 
          Previously, I was the technical lead and head of global partnerships for {' '}
          <Link href='/ignite'>Ignite</Link>,
-          a team focused on breaking barriers for entry into STEM education.        
+          a high school team focused on breaking barriers for entry into STEM education.        
         </p>
 
         <p>

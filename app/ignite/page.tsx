@@ -1,12 +1,18 @@
-import { Project as ProjectType } from '../projects/projects'
-import styles from '../page.module.scss'
+'use client'
+import { Inter } from 'next/font/google'
+import styles from './page.module.scss'
 import Link from 'next/link'
 
-export const revalidate = 0
+const inter = Inter({ subsets: ['latin'] })
 
 export default function Ignite() {
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container} ${inter.className}`}>
+      <div className={styles.header}>
+        <Link href='/' className='link'>
+          &larr; Return to homepage
+        </Link>
+      </div>
       <div className={styles.content}>
         <header>
           <div>
