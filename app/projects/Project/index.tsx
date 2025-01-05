@@ -40,7 +40,10 @@ export function Project({ project }: Props) {
       <div className={styles.content}>
         <h1>{title}</h1>
         <p className={styles.icons}>{icons.join(' • ')}</p>
-        <p className={styles.about}>{about}</p>
+        <p 
+          className={styles.about} 
+          dangerouslySetInnerHTML={{ __html: about }}
+        />
         <div className={styles.buttons}>
           {buttons.map((button, i) => (
             <div className={styles.button} key={i}>
