@@ -1,4 +1,4 @@
-import { Project as ProjectType } from '../projects'
+import { Project as ProjectType } from '../projects/projects'
 import styles from '../page.module.scss'
 import Link from 'next/link'
 
