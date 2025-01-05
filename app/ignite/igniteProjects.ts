@@ -2,16 +2,39 @@ import { Project } from '../projects/projects'
 
 export const igniteProjects: Project[] = [
   {
-    title: 'Example Ignite Project',
-    about: 'Description of your first Ignite project.',
-    image: 'ignite-example.jpg', // Make sure to add this image to public/projects/
+    title: 'Ho\'okumu',
+    about: '<i>Establishing</i> our roots both near and far',
+    image: '', // Make sure to add this image to public/projects/
     buttons: [
       {
-        label: 'Learn More',
-        link: 'https://example.com',
+        label: 'See our work',
+        link: 'https://youtu.be/2aDiVcGs7oU',
       },
     ],
-    icons: ['Example Tech', 'Another Tech'],
+    icons: ['2024', 'Waimānalo, HI'],
   },
-  // Add more Ignite projects here...
+  {
+    title: 'Ho\'oku\'i',
+    about: '<i>Connecting</i> communities through storytelling',
+    image: '', // Make sure to add this image to public/projects/
+    buttons: [
+      {
+        label: 'See our work',
+        link: 'https://www.youtube.com./watch?v=zxPKAzMs6n8&list=LL&index=27',
+      },
+    ],
+    icons: ['2023', 'Dakwäkäda, CA'],
+  },
+  {
+    title: 'Holomua',
+    about: 'Pushing <i>onward</i> and breaking barriers',
+    image: '', // Make sure to add this image to public/projects/
+    buttons: [
+      {
+        label: 'See our work',
+        link: 'https://www.youtube.com./watch?v=vyHpaJ-se2M&list=LL&index=106&t=114s',
+      },
+    ],
+    icons: ['2022', 'Rotorua, NZ'],
+  },
 ] 
