@@ -40,3 +40,15 @@
     }
   }
   
+.header {
+  margin-bottom: 2rem;
+  
+  .link {
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+  
