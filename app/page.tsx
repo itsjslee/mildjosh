@@ -76,9 +76,7 @@ export default function Home() {
            V1 Michigan
          </DomLink>. 
          Previously, I was the technical lead and head of global partnerships for {' '}
-         <DomLink href='/projects/ignite'>
-          Ignite
-         </DomLink>,
+         <Link href='/ignite'>Ignite</Link>,
           a team focused on breaking barriers for entry into STEM education.        
         </p>
 

@@ -1,28 +1,35 @@
-import styles from '../../page.module.scss'
-import { DomLink } from '@/components/DomLink'
+import { Project as ProjectType } from '../projects'
+import styles from '../page.module.scss'
+import Link from 'next/link'
 
-export default function IgnitePage() {
+export const revalidate = 0
+
+export default function Ignite() {
   return (
     <div className={styles.container}>
       <div className={styles.content}>
         <header>
-          <h1>Ignite</h1>
-          <p className={styles.subtitle}>Breaking barriers for entry into STEM education</p>
+          <div>
+            <h1>Ignite</h1>
+            <p className={styles.subtitle}>
+              Breaking barriers for entry into STEM education
+            </p>
+          </div>
         </header>
 
         <hr />
 
         <p>
-          As the technical lead and head of global partnerships at Ignite, I led a team
-          focused on making STEM education more accessible to students worldwide.
+          <Link href='/'>← Return to homepage</Link>
         </p>
 
-        {/* Add more content about the Ignite project here */}
-
+        {/* Add your Ignite content here, following the same structure as your projects page */}
         <p>
-          <DomLink href="/">← Back to home</DomLink>
+          ...
+          {/* Add more details about Ignite */}
         </p>
+
       </div>
     </div>
   )
-} 
+}
