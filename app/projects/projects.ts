@@ -86,6 +86,27 @@ export const projects: Project[] = [
     ],
   },
   {
+    title: 'Timescape',
+    about: 'Countdown site for Team 2438 events in the 2025 FRC season: REEFSCAPE',
+    image: 'timescape.jpg',
+    buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/itsjslee/timescape',
+      },
+      {
+        label: 'Check it out', 
+        link: 'https://timescape-nu.vercel.app',
+      },
+      
+    ],
+    icons: [
+      'JavaScript',
+      'HTML/CSS',
+      'Vercel',
+    ],
+  },
+  {
     title: 'Seymour',
     about: 'A web tool allowing users to analyze historal stock trends in order to make market predictions.',
     image: 'seymour.png',
