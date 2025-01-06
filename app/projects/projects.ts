@@ -88,7 +88,7 @@ export const projects: Project[] = [
   {
     title: 'Timescape',
     about: 'Countdown site for Team 2438 events in the 2025 FRC season: REEFSCAPE',
-    image: 'timescape.jpg',
+    image: 'timescape.png',
     buttons: [
       {
         label: 'GitHub', 
