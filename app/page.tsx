@@ -75,7 +75,7 @@ export default function Home() {
          <DomLink href='https://v1michigan.com/'>
            V1 Michigan
          </DomLink>. 
-         Previously, I was the technical lead and head of global partnerships for {' '}
+         Previously, I was the technical lead and head of partnerships for {' '}
          <Link href='/ignite'>Ignite</Link>,
           a high school team focused on breaking barriers for entry into STEM education.        
         </p>
