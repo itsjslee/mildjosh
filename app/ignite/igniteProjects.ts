@@ -20,7 +20,7 @@ export const igniteProjects: Project[] = [
     buttons: [
       {
         label: 'See our work',
-        link: 'https://www.youtube.com./watch?v=zxPKAzMs6n8&list=LL&index=27',
+        link: 'https://www.youtube.com./watch?v=zxPKAzMs6n8',
       },
     ],
     icons: ['2023', 'Dakwäkäda, CA'],
@@ -32,7 +32,7 @@ export const igniteProjects: Project[] = [
     buttons: [
       {
         label: 'See our work',
-        link: 'https://www.youtube.com./watch?v=vyHpaJ-se2M&list=LL&index=106&t=114s',
+        link: 'https://www.youtube.com./watch?v=vyHpaJ-se2M',
       },
     ],
     icons: ['2022', 'Rotorua, NZ'],
