@@ -137,11 +137,12 @@ export const projects: Project[] = [
     buttons: [
       {
         label: 'GitHub', 
-        link: 'https://github.com/itsjslee',
+        link: 'https://github.com/itsjslee/eecs280',
       },
     ],
     icons: [
-      'Coming soon!',
+      'C++',
+      'Linux',
     ],
   },
   {
