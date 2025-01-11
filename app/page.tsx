@@ -71,7 +71,7 @@ export default function Home() {
          working on the largest student built hybrid rocket{' '}
          <DomLink href='https://masa.engin.umich.edu/Limelight/'>
            Limelight
-         </DomLink>. I am also a product studio engineer at{' '}
+         </DomLink>. I am also a product studio engineer and operations team member at{' '}
          <DomLink href='https://v1michigan.com/'>
            V1 Michigan
          </DomLink>. 
