@@ -103,6 +103,16 @@ export const projects: Project[] = [
     ],
   },
   {
+    title: 'Poppy',
+    about: 'YouTube ad-blocking script',
+    image: '',
+    buttons: [
+    ],
+    icons: [
+      'Currently Building'
+    ],
+  },
+  {
     title: 'Seymour',
     about: 'A web tool allowing users to analyze historal stock trends in order to make market predictions.',
     image: 'seymour.png',
