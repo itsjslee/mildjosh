@@ -38,3 +38,16 @@ export const igniteProjects: Project[] = [
     icons: ['2022', 'Rotorua, NZ'],
   },
 ] 
+
+// Add a CSS class to ensure full width and centering
+const igniteProjectsStyle = {
+  width: '100%', // Ensure full width
+  display: 'flex',
+  justifyContent: 'center', // Center the content
+  // Add any additional styles as needed
+};
+
+// Use this style in your component rendering
+// <div style={igniteProjectsStyle}>
+//   ... render your projects ...
+// </div> 
