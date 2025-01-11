@@ -19,10 +19,6 @@ export const projects: Project[] = [
     about: 'An onboard camera system for MASA\'s flagship rocket, Limelight.',
     image: 'limelive1.png',
     buttons: [
-      {
-        label: 'Schematic', 
-        link: 'public/projects/JoshLimeliveMVP.kicad_pro',
-      }
     ],
     icons: [
       'Altium',
