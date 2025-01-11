@@ -23,7 +23,7 @@ export const projects: Project[] = [
     icons: [
       'Altium',
       'KiCAD',
-      'Digikey'
+      'DigiKey'
     ],
   },
   {
