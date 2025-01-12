@@ -15,6 +15,18 @@ export type Project = {
 export const projects: Project[] = [
 
   {
+    title: 'Gridlime',
+    about: 'The flight controller for MASA\'s flagship rocket, Limelight.',
+    image: 'gridlime.png',
+    buttons: [
+    ],
+    icons: [
+      'Altium',
+      'KiCAD',
+      'DigiKey'
+    ],
+  },
+  {
     title: 'Limelive',
     about: 'An onboard camera system for MASA\'s flagship rocket, Limelight.',
     image: 'limelive1.png',
