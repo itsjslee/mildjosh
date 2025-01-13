@@ -19,6 +19,10 @@ export const projects: Project[] = [
     about: 'The flight controller for MASA\'s flagship rocket, Limelight.',
     image: 'gridlime.png',
     buttons: [
+      {
+        label: 'GitHub', 
+        link: 'https://github.com/masa-umich/Rocket-Avionics',
+      },
     ],
     icons: [
       'Altium',
